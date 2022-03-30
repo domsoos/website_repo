@@ -1,0 +1,8 @@
+-classpath '/Users/zeus/Documents/GitHub/website_repo/build/classes/java/main:/Users/zeus/Documents/GitHub/website_repo/build/resources/main'
+-d '/Users/zeus/Documents/GitHub/website_repo/build/docs/javadoc'
+-doctitle 'website_repo API'
+-notimestamp 
+-quiet 
+-windowtitle 'website_repo API'
+'/Users/zeus/Documents/GitHub/website_repo/src/main/java/edu/odu/cs/cs350/Author.java'
+'/Users/zeus/Documents/GitHub/website_repo/src/main/java/edu/odu/cs/cs350/Book.java'
